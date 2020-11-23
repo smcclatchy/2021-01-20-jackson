@@ -12,7 +12,7 @@ longitude: "-68.196691"       # decimal longitude of the workshop venue (use htt
 humandate: "Jan 20, 22, 27 & 29, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-01-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-01-289       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2021-01-29       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Aditya Bandla", "Peter R. Hoyt", "Leah Guthrie", "Elise Lauterbur"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Sue McClatchy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
