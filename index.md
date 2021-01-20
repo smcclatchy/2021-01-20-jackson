@@ -13,8 +13,8 @@ humandate: "Jan 20, 22, 27 & 29, 2021"    # human-readable dates for the worksho
 humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-01-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-01-29       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Aditya Bandla", "Peter R. Hoyt", "Leah Guthrie", "Elise Lauterbur"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Amnah Siddiqa", "Neil Kindlon", "Sue McClatchy", "Olaitan Awe", "Andrew Deighan", "Matt Gerring"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Aditya Bandla", "Peter R. Hoyt", "Leah Guthrie", "Elise Lauterbur", "Sue McClatchy"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Amnah Siddiqa", "Neil Kindlon", "Olaitan Awe", "Andrew Deighan", "Matt Gerring", "Ann Wells", "Uma Arora"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/CrPTOGA03QMrImpdtU2Y
 eventbrite: 118216634135           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
